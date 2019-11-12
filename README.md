@@ -2,9 +2,9 @@
 
 在新版的 Win10 中，微软添加了 `Windows Hello 人脸`、 `Windows Hello 指纹`、`安全密钥` 等登陆方式。对于不搭载专属配件的设备来说，实现任意一种免密登录的成本都比较高。而 `DigiSpark` 成本非常低，不到7元包邮，可以实现模拟键鼠。受`USB免密登录`的启发，通过 `DigiSpark` 实现 Windows 免密登录，可以做到 `移动密钥` 的效果 —— 插入即可免密登录，拔出则自动锁定设备。
 
-![DigiSpark正面](https://cdn.wyr.me/imgs/01.jpg)
+![DigiSpark 正面](https://cdn.wyr.me/imgs/01.jpg)
 
-![DigiSpark背面](https://cdn.wyr.me/imgs/02.jpg)
+![DigiSpark 背面](https://cdn.wyr.me/imgs/02.jpg)
 
 烧录到DigiSpark的代码：
 ```C
