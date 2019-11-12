@@ -1,0 +1,7 @@
+D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.pdb
+D:\Project\USBAuth\USBAuth\obj\Debug\USBAuth.pdb
+D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe.config
+D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+D:\Project\USBAuth\USBAuth\obj\Debug\USBAuth.exe
+D:\Project\USBAuth\USBAuth\obj\Debug\USBAuth.ProjectInstaller.resources
+D:\Project\USBAuth\USBAuth\obj\Debug\USBAuth.csproj.GenerateResource.cache

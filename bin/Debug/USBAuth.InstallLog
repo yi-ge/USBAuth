@@ -1,0 +1,52 @@
+﻿正在安装程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在安装程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在安装程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+正在将事件日志还原到源 Service1 的前一状态。
+正在安装程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
+正在安装服务 Service1...
+已成功安装服务 Service1。
+正在日志 Application 中创建 EventLog 源 Service1...
+正在提交程序集“D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.InstallLog
+   assemblypath = D:\Project\USBAuth\USBAuth\bin\Debug\USBAuth.exe
